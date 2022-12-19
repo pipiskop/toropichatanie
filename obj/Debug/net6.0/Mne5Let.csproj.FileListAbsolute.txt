@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/bin/Debug/net6.0/Mne5Let
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/bin/Debug/net6.0/Mne5Let.deps.json
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/bin/Debug/net6.0/Mne5Let.runtimeconfig.json
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/bin/Debug/net6.0/Mne5Let.dll
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/bin/Debug/net6.0/Mne5Let.pdb
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.AssemblyInfo.cs
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.dll
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/refint/Mne5Let.dll
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.pdb
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/Mne5Let.genruntimeconfig.cache
+/Users/pipiskop/Projects/Mne5Let/Mne5Let/obj/Debug/net6.0/ref/Mne5Let.dll
